@@ -1,0 +1,20 @@
+#Ignorando arquivos .sqlite3
+*.sqlite3
+
+#Ignorando arquivos .pyc e pychache
+*.pyc
+__pycache__/
+
+
+#Ignorando pasta de media:
+media/
+
+#Informações de deploy:
+deploy.txt
+
+#Ignorando pasta vscode:
+*.vscode
+*.*~
+
+#ignorando arquivos Pycharm:
+.idea
